@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammedRaslan
 - 👀 I’m interested in Mobile development and Web development; 
-- 🌱 I’m currently learning backend in flutter ;
-- 💞️ I’m looking to collaborate on mobile development;
+- 🌱 I’m currently learning backend web mobile development ;
+- 💞️ I’m looking to collaborate on mobile/web development;
 - 📫 How to reach me =>
   var WhatsApp = +963944692796 ;
    
